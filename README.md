@@ -2,7 +2,7 @@
 
 # 
 
-### Fundamentos de Seguridad y Auditoría.**
+### Fundamentos de Seguridad y Auditoría.
 
 ## **Módulo**: Digitalización Aplicada a los Sistemas Productivos.
 
