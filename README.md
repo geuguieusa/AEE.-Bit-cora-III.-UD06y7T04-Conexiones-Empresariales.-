@@ -66,7 +66,7 @@ El archivo de registro de autenticación es muy importante y es una negligencia 
 * **Custodia Externa:** Enviar los logs a un servidor externo seguro evita que los registros permanezcan dispersos e indefensos en una máquina que podría ser vulnerada.  
 * **Integridad de Evidencias:** Si un atacante compromete el servidor, su primera acción suele ser borrar los logs locales; la centralización asegura que el rastro digital permanezca intacto para el análisis forense.\[3\]
 
-* ### **Fuentes:**
+* ### **Fuentes/Citas:**
 
 ### 
 
