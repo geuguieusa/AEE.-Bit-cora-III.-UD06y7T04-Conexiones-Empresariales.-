@@ -60,13 +60,13 @@ El valor de prioridad se calcula mediante la fórmula (Prioridad \= Facilidad \*
 
 El archivo de registro de autenticación es muy importante y es una negligencia grave que este archivo tenga permisos de lectura para usuarios no privilegiados, por que el log contiene información sensible que una persona con malas intenciones  podría utilizar para reconocer información, por ejemplo: identificadores de proceso, nombres de usuario, direcciones IP de origen…. La diferencia técnica entre un fallo de acceso local y uno remoto es que el intento por SSH registra específicamente la dirección IP de origen y el puerto efímero utilizado, mientras que un fallo local frente a la pantalla carece de estos metadatos de red.\[2\]
 
-* ### **Reto de Investigación 2** {#reto-de-investigación-2}
+* ### **Reto de Investigación 2** 
 
   A nivel empresarial y legal, la gestión centralizada de registros ofrece ventajas vitales de protección, como por ejemplo:  
 * **Custodia Externa:** Enviar los logs a un servidor externo seguro evita que los registros permanezcan dispersos e indefensos en una máquina que podría ser vulnerada.  
 * **Integridad de Evidencias:** Si un atacante compromete el servidor, su primera acción suele ser borrar los logs locales; la centralización asegura que el rastro digital permanezca intacto para el análisis forense.\[3\]
 
-* ### **Fuentes:** {#fuentes:}
+* ### **Fuentes:**
 
 ### 
 
