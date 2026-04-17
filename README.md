@@ -2,7 +2,7 @@
 
 # 
 
-# **AEE. Bitácora III: Conexiones Empresariales.**
+### Fundamentos de Seguridad y Auditoría.**
 
 ## **Módulo**: Digitalización Aplicada a los Sistemas Productivos.
 
@@ -18,17 +18,6 @@
 
 # 
 
-# **ÍNDICE:**
-
-[**2\. Fase de Investigación: Comprendiendo el corazón del sistema	2**](#2.-fase-de-investigación:-comprendiendo-el-corazón-del-sistema)
-
-[● Reto de Investigación 1	2](#reto-de-investigación-1)
-
-[● Reto de Investigación 2	4](#reto-de-investigación-2)
-
-[● Fuentes:	4](#fuentes:)
-
-## 
 
 # 2\. Fase de Investigación: Comprendiendo el corazón del sistema {#2.-fase-de-investigación:-comprendiendo-el-corazón-del-sistema}
 
